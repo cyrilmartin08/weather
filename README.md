@@ -50,13 +50,7 @@ This project uses the **OpenWeather API**.
 
 1. Go to https://openweathermap.org/api  
 2. Create a free account and generate an API key  
-3. In the project root folder, create a file named `config.js`
-4. Add the following code:
-
-```js
-export const API_KEY = "YOUR_OPENWEATHER_API_KEY";
-```
-5. Open index.html in your browser
+3. Use it
 
 
 ### 🙌 Acknowledgements
