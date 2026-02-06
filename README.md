@@ -31,7 +31,7 @@ The app fetches real-time weather data from the **OpenWeather API** and displays
 ## 📂 Project Structure
 
 ```js
-weather-app/
+weather/
 │
 ├── index.html
 ├── script.js
@@ -58,16 +58,6 @@ export const API_KEY = "YOUR_OPENWEATHER_API_KEY";
 ```
 5. Open index.html in your browser
 
-### ⚠️ Note on API Security
-
-Since this is a frontend-only project, API keys cannot be fully hidden in production.
-For real-world applications, API requests should be handled via a backend or environment variables using build tools.
-
-### 📸 Preview
-<p align="center">
-    <img src="assets/image1.png" alt="UI Preview" width="400" height="200"/>
-    <img src="assets/iamge2.png" alt="UI Preview" width="400" height="200"/>
-</p>
 
 ### 🙌 Acknowledgements
 - OpenWeather API – https://openweathermap.org/
