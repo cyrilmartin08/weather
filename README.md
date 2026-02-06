@@ -3,6 +3,8 @@
 A simple and responsive weather application built using **HTML, CSS, and JavaScript**.  
 The app fetches real-time weather data from the **OpenWeather API** and displays current temperature, humidity, weather conditions, and an appropriate weather icon for any searched city.
 
+Link: https://cyrilmartin08.github.io/weather/
+
 ---
 
 ## 🚀 Features
